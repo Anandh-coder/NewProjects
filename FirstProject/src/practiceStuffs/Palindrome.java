@@ -32,7 +32,8 @@ public class Palindrome {
 		}
 		if(a.equalsIgnoreCase(b)) {
 			System.out.println("Hurry! its a palindrome");
-		}
+			System.out.println("okk");
+					}
 		else
 			System.out.println("NOt a palindrome yaar");
 	}
